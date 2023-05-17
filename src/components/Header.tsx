@@ -67,20 +67,20 @@ export default function Header() {
                 </span>
                 <a
                   class="ml-2 <sm:hidden"
-                  href=""
+                  href="https://chez1.cn"
                 >
                   <img
-                    alt=""
-                    src=""
+                    alt="有任何问题访问访问官方网站"
+                    src="https://chez1.cn"
                   />
                 </a>
                 <a
                   class="ml-2"
-                  href=""
+                  href="https://chez1.cn"
                 >
                   <img
-                    alt=""
-                    src="o="
+                    alt="有任何问题访问访问官方网站"
+                    src="https://chez1.cn"
                   />
                 </a>
               </>
