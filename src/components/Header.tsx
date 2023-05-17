@@ -1,4 +1,4 @@
-import logo from "/assets/logo.svg?raw"
+import logo from "/public/favicon.svg?raw"
 import ThemeToggle from "./ThemeToggle"
 import { RootStore, loadSession } from "~/store"
 import { Show, createMemo } from "solid-js"
