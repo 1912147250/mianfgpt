@@ -18,10 +18,11 @@ export const defaultEnv = {
     continuousDialogue: true,
     APIModel: "gpt-3.5-turbo" as Model
   },
-  CLIENT_DEFAULT_MESSAGE: `CheZai KuaiXue
+  CLIENT_DEFAULT_MESSAGE: `chezai kuaixue
 - 由于本站被人恶意刷取token，所以进行填写密码使用，请进入交流群免费获取密码[加入群聊](https://cznm-1302520615.cos.ap-nanjing.myqcloud.com/tmp_0a3e572d3aeb8f91f7027a6c4a7c2bf73fd0d9bc00f8c8dc.jpg)
+- 点击每条消息前的头像，可以锁定对话，作为角色设定。[查看更多使用技巧](https://chez1.cn#使用技巧)。
 - 有任何建议和合作请联系9371839@gmail.com，本网站为公益网站不收取任何费用，只是为爱发电的大学生仅此而已
-- [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部`
+- [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。
 `,
   CLIENT_MAX_INPUT_TOKENS: {
     "gpt-3.5-turbo": 4 * 1024,
