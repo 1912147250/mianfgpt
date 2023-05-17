@@ -70,7 +70,7 @@ export default function Header() {
                   href="https://chez1.cn"
                 >
                   <img
-                    alt="有任何问题访问访问官方网站"
+                    alt=""
                     src="https://chez1.cn"
                   />
                 </a>
@@ -79,7 +79,7 @@ export default function Header() {
                   href="https://chez1.cn"
                 >
                   <img
-                    alt="有任何问题访问访问官方网站"
+                    alt=""
                     src="https://chez1.cn"
                   />
                 </a>
